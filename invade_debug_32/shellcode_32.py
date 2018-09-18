@@ -1,5 +1,5 @@
 """invade_debug_32 shellcode build script.
-Execute this script to test shellcode build.
+Run this script to test shellcode build.
 """
 
 import sys

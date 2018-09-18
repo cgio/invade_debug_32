@@ -1,6 +1,4 @@
-"""invade_debug_32
-v0.0.1
-"""
+"""invade_debug_32"""
 
 import argparse
 import sys
