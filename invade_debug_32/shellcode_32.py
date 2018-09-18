@@ -1,10 +1,11 @@
-"""invade_debug_32 shellcode build script
-v0.0.1
-Execute this script to test shellcode build
+"""invade_debug_32 shellcode build script.
+Execute this script to test shellcode build.
 """
 
 import sys
 import invade
+
+__version__ = '0.0.1'
 
 
 def get(is_x64, addr=0x1000):

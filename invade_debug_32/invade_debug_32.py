@@ -1,3 +1,7 @@
+"""invade_debug_32
+v0.0.1
+"""
+
 import argparse
 import sys
 import time
@@ -5,6 +9,8 @@ import time
 import invade
 
 import shellcode_32
+
+__version__ = '0.0.1'
 
 
 class Args(object):
